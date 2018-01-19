@@ -2,7 +2,7 @@
 
 This was my solution to a C (mainly just an intro to programming) course's project in a CS Bachelor program I am pursuing. It was nearly 2 semesters ago when I've taken this course. 
 
-The project's description that was sent to the course's students is available at `Description/comp133_Project_Ph_*.docx`. It was divided into three phases, each phase's description is in a different file, the same applies to the solution, each phase's solution is in a seperate .RAR file. The third (final) phase's solution represents the 'complete' program.
+The project's description that was sent to the course's students is available at `Description/comp133_Project_Ph_*.docx`. It was divided into three phases, each phase's description is in a different file, the same applies to the solution, each phase's solution is in a seperate folder. The third (final) phase's solution represents the 'complete' program.
 
 Proper commenting has been done. And yes, I am fully aware of the Stack Buffer Overflow threats this program puts on the table.
 
